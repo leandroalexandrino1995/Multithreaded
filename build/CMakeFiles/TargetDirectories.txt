@@ -1,0 +1,3 @@
+/home/leandro/Downloads/wetransfer_inc_2023-01-14_1430/build/CMakeFiles/MultiThreadQueue.dir
+/home/leandro/Downloads/wetransfer_inc_2023-01-14_1430/build/CMakeFiles/edit_cache.dir
+/home/leandro/Downloads/wetransfer_inc_2023-01-14_1430/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,33 @@
+\begin{theindex}
+
+  \item {Count}
+    \subitem {Queue$<$ T $>$}, \hyperpage{6}
+
+  \indexspace
+
+  \item {inc/Queue.h}, \hyperpage{9}
+
+  \indexspace
+
+  \item {Pop}
+    \subitem {Queue$<$ T $>$}, \hyperpage{6}
+  \item {Push}
+    \subitem {Queue$<$ T $>$}, \hyperpage{6}
+
+  \indexspace
+
+  \item {Queue}
+    \subitem {Queue$<$ T $>$}, \hyperpage{5}
+  \item {Queue$<$ T $>$}, \hyperpage{5}
+    \subitem {Count}, \hyperpage{6}
+    \subitem {Pop}, \hyperpage{6}
+    \subitem {Push}, \hyperpage{6}
+    \subitem {Queue}, \hyperpage{5}
+    \subitem {Size}, \hyperpage{7}
+
+  \indexspace
+
+  \item {Size}
+    \subitem {Queue$<$ T $>$}, \hyperpage{7}
+
+\end{theindex}

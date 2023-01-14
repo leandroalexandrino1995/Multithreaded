@@ -1,0 +1,3 @@
+/home/leandro/Downloads/BOSCH_interview/TestUnit/build/CMakeFiles/TestQueue.dir
+/home/leandro/Downloads/BOSCH_interview/TestUnit/build/CMakeFiles/edit_cache.dir
+/home/leandro/Downloads/BOSCH_interview/TestUnit/build/CMakeFiles/rebuild_cache.dir
